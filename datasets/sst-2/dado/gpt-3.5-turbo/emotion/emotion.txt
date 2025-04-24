@@ -1,0 +1,10 @@
+Joy/Excitement
+Disappointment
+Nostalgia
+Anger/Frustration
+Surprise
+Sadness/Melancholy
+Humor/Sarcasm
+Fear/Tension
+Confusion
+Awe/Admiration
