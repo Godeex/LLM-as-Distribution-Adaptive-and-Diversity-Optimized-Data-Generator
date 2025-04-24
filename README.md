@@ -3,7 +3,7 @@
 
 
 ## Framework
-![DADO](figure/system.pdf)
+![DADO](figure/system.png)
 
 ## Dataset
 ### Generated/Gold Datasets
