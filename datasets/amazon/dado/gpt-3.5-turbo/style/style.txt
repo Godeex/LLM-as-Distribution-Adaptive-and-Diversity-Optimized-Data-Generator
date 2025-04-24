@@ -1,0 +1,5 @@
+Casual & Conversational – Feels like a friend’s recommendation.
+Detailed & Technical – Focuses on specs, measurements, or performance metrics.
+Storytelling – Wraps the review in a personal narrative.
+Humorous / Sarcastic – Uses jokes, irony, or exaggerated complaints/praise.
+Minimalist – Short and to the point.
