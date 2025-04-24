@@ -3,12 +3,11 @@
 
 
 ## Framework
-
 ![DADO](figure/system.png)
 
 ## Dataset
 ### Generated/Gold Datasets
-The datasets, including the original train/validation/test data, the generated training data, as well as label names are available in subfolder `./dataset`:
+The datasets, including the original train/validation/test data, the generated training data, as well as label names are available in subfolder `./dataset`  on https://huggingface.co/datasets/GLOX/DADO:
 | Dataset | # Train | # Test | # Class | Task  | Domain |
 | ------  | ------- | ----- | ----------- | ----------- | ----------- |
 | Amazon | 13.8k | 1.2k | 23 | Multiclass | Product Review |
